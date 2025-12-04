@@ -5,7 +5,9 @@ import React from 'react';
 import type { AlertBoxProps } from '../../types'; 
 
 //START OF THE COMPONENT//
-// REACT.FC MEANS This is a React Function Component."HOWEVER, IT IS DEPRECATED " NON-EXISTENT
+
+// REACT.FC MEANS This is a React Function Component.
+// "HOWEVER, IT IS DEPRECATED " NON-EXISTENT
 //EXPORT MEANS WE CAN USE IT IN AN ANOTHER FILE
 
 export const AlertBox: React.FC<AlertBoxProps> = ({
