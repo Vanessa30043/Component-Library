@@ -1,6 +1,6 @@
 // src/components/UserProfileCard/UserProfileCard.tsx
 import React from "react";
-import { UserProfileCardProps } from "../../types";
+import type { UserProfileCardProps } from "../../types";
 
 /*
   UserProfileCard
